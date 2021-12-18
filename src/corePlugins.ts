@@ -84,7 +84,7 @@ const corePlugins: TailwindCorePlugin[] = [
   'pointerEvents',
   'position',
 
-  // 'inset', // 用不着
+  'inset', // 用不着
   'resize',
   // 'boxShadow', // *,::before,::after 限制
   // 'ringWidth', // *,::before,::after 限制
