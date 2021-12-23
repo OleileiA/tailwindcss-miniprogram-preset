@@ -86,7 +86,7 @@ const corePlugins: TailwindCorePlugin[] = [
 
   'inset', // 用不着
   'resize',
-  // 'boxShadow', // *,::before,::after 限制
+  'boxShadow', // *,::before,::after 限制
   // 'ringWidth', // *,::before,::after 限制
   // 'ringOffsetColor',
   // 'ringOffsetWidth',
